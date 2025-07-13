@@ -28,7 +28,6 @@ Enter your initial height, launch angle, and speed — and watch the projectile 
 - `Rendering/` – Graph rendering and drawing logic
 - `Simulation/` – Bullet models and updates
 - `UI/` – Forms and input controls
-- `Logging/` – Optional debug and info logs
 
 ---
 
